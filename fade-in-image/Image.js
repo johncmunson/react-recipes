@@ -1,6 +1,7 @@
 // Want an easy way to make your images a little more graceful?
 // This recipe is for an Image component that fades in once the image is loaded.
 // Getting images to fade becomes a matter of replacing <img> with <Image>.
+// source: http://buildwithreact.com/article/fade-in-image-recipe
 
 
 var classNames = require('classnames');
